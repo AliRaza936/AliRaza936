@@ -12,7 +12,8 @@
 
 <h3 style="font-size:2rem" align="left">🌐 Social:</h3>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]("https://fb.com/https://www.facebook.com/profile.php?id=100010559527051&mibextid=jrokgi")
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]("https://www.facebook.com/profile.php?id=100010559527051&mibextid=JRoKGi")
+
 <br/>
 <h3 align="left">💻 Languages and Tools:</h3>
  

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <h3 align="center">A passionate Mern Stack Developer</h3>
-<img align:"right" alt='coding' width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3qAKc27BRicYLbIIXkoymg&ust=1732457963054000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiD04DT8okDFQAAAAAdAAAAABAK" />
+<img align="right" alt='coding' width="400" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAzzOlWzYZeT9-HpLl7tQb_ZrPikOeKOyYRtXli10FgJ_yxSe_77U1U-_ork_tixsMVSw&usqp=CAU' >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliraza936&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza936" /> </p>
 
 - 📫 How to reach me **aliraza93644@gmail.com**

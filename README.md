@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ali Raza</h1>
+<div>
+  <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <h3 align="center">A passionate Mern Stack Developer</h3>
-<img align="right" alt='coding' width="400" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAzzOlWzYZeT9-HpLl7tQb_ZrPikOeKOyYRtXli10FgJ_yxSe_77U1U-_ork_tixsMVSw&usqp=CAU' >
+
+<img align="right" alt='coding' width="380"  src='https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966' >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliraza936&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza936" /> </p>
 
 - 📫 How to reach me **aliraza93644@gmail.com**
 
 - ⚡ Fun fact **I think i am funny😜😜**
 
-
+</div>
+<div>
+  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100010559527051&mibextid=JRoKGi) 
@@ -26,3 +30,4 @@
 [![](https://visitcount.itsvg.in/api?id=AliRaza936&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
